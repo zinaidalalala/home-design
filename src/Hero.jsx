@@ -7,7 +7,7 @@ function Hero({ name }) {
   return (
     <Section sectionName={name}>
       <video autoPlay muted loop className={`${name}__background`}>
-        <source src="public/video-main.mp4" type="video/mp4" />
+        <source src="/video-main.mp4" type="video/mp4" />
       </video>
       <div className={`${name}__wrapper`}>
         <h1 className={`title ${name}__title`}>{data[0].title}</h1>

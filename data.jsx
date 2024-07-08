@@ -84,7 +84,7 @@ const callData = {
 const reviewsData = [
   {
     id: 1,
-    imgSrc: "public/reviews-1.png",
+    imgSrc: "/reviews-1.png",
     imgAlt: "Review author",
     imgClass: "reviews__img",
     width: "77",
@@ -95,7 +95,7 @@ const reviewsData = [
   },
   {
     id: 2,
-    imgSrc: "public/reviews-2.png",
+    imgSrc: "/reviews-2.png",
     imgAlt: "Review author",
     imgClass: "reviews__img",
     width: "77",
@@ -106,7 +106,7 @@ const reviewsData = [
   },
   {
     id: 3,
-    imgSrc: "public/reviews-3.png",
+    imgSrc: "/reviews-3.png",
     imgAlt: "Review author",
     imgClass: "reviews__img",
     width: "77",
